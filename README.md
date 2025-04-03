@@ -36,10 +36,6 @@ pip install -r requirements.txt
 ### **4️⃣ Run the Streamlit App**
   streamlit run app.py
 
-
-## 📊 Preview
-![Currency Converter](https://your-image-url.com/preview.png)
-
 ## 🚀 Deployment
 ### **Deploy on Hugging Face Spaces**
 1. Push your project to a GitHub repository.
@@ -50,7 +46,7 @@ pip install -r requirements.txt
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests with improvements! 😊
 
-APP LINK : https://huggingface.co/spaces/Y4SH/CurrencyConversion
+
 
 
 
